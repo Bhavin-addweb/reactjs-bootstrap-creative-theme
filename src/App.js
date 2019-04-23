@@ -53,10 +53,10 @@ class App extends Component {
         <Nav
           navClass={this.state.navClass}
           home={() => this.onClickScroll(this.home.current.offsetTop)}
-          about={() => this.onClickScroll(this.about.current.offsetTop)}
-          services={() => this.onClickScroll(this.services.current.offsetTop)}
-          portfolio={() => this.onClickScroll(this.portfolio.current.offsetTop)}
-          contact={() => this.onClickScroll(this.contact.current.offsetTop)}
+          about={() => this.onClickScroll(this.about.current.offsetTop - 70)}
+          services={() => this.onClickScroll(this.services.current.offsetTop - 70)}
+          portfolio={() => this.onClickScroll(this.portfolio.current.offsetTop - 70)}
+          contact={() => this.onClickScroll(this.contact.current.offsetTop - 70)}
         />
         <Header myRef={this.home} onClickScroll={() => this.onClickScroll(this.about.current.offsetTop - 70)} />
         <About myRef={this.about} onClickScroll={() => this.onClickScroll(this.services.current.offsetTop - 70)} />
