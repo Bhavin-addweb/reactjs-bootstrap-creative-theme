@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "6e83f2c038e63d11d4b8",
+    "revision": "c17940cffe7a3a676e70",
     "url": "/reactjs-bootstrap-creative-theme/static/css/main.a830cac7.chunk.css"
   },
   {
-    "revision": "6e83f2c038e63d11d4b8",
-    "url": "/reactjs-bootstrap-creative-theme/static/js/main.e4bbacc4.chunk.js"
+    "revision": "c17940cffe7a3a676e70",
+    "url": "/reactjs-bootstrap-creative-theme/static/js/main.cecd98f4.chunk.js"
   },
   {
     "revision": "dca179800502b115eee4",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/reactjs-bootstrap-creative-theme/static/media/6.61db5908.jpg"
   },
   {
-    "revision": "11e97c718f9c0fb924659c2d7529d8cc",
+    "revision": "85ef99e0f7619b82f0fc47c61d0053b8",
     "url": "/reactjs-bootstrap-creative-theme/index.html"
   }
 ];
