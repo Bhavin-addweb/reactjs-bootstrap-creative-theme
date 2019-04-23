@@ -1,16 +1,20 @@
 {
-  "files": {
-    "main.css": "/reactjs-bootstrap-creative-theme/static/css/main.584f321a.chunk.css",
-    "main.js": "/reactjs-bootstrap-creative-theme/static/js/main.9e3e0b6d.chunk.js",
-    "main.js.map": "/reactjs-bootstrap-creative-theme/static/js/main.9e3e0b6d.chunk.js.map",
-    "runtime~main.js": "/reactjs-bootstrap-creative-theme/static/js/runtime~main.59e32850.js",
-    "runtime~main.js.map": "/reactjs-bootstrap-creative-theme/static/js/runtime~main.59e32850.js.map",
-    "static/js/2.b41502e9.chunk.js": "/reactjs-bootstrap-creative-theme/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/reactjs-bootstrap-creative-theme/static/js/2.b41502e9.chunk.js.map",
-    "index.html": "/reactjs-bootstrap-creative-theme/index.html",
-    "precache-manifest.625afa8a636fd747d1280a4745563aae.js": "/reactjs-bootstrap-creative-theme/precache-manifest.625afa8a636fd747d1280a4745563aae.js",
-    "service-worker.js": "/reactjs-bootstrap-creative-theme/service-worker.js",
-    "static/css/main.584f321a.chunk.css.map": "/reactjs-bootstrap-creative-theme/static/css/main.584f321a.chunk.css.map",
-    "static/media/logo.svg": "/reactjs-bootstrap-creative-theme/static/media/logo.5d5d9eef.svg"
-  }
+  "main.css": "/reactjs-bootstrap-creative-theme/static/css/main.a830cac7.chunk.css",
+  "main.js": "/reactjs-bootstrap-creative-theme/static/js/main.a27d2802.chunk.js",
+  "main.js.map": "/reactjs-bootstrap-creative-theme/static/js/main.a27d2802.chunk.js.map",
+  "runtime~main.js": "/reactjs-bootstrap-creative-theme/static/js/runtime~main.59e32850.js",
+  "runtime~main.js.map": "/reactjs-bootstrap-creative-theme/static/js/runtime~main.59e32850.js.map",
+  "static/js/2.655ff1f3.chunk.js": "/reactjs-bootstrap-creative-theme/static/js/2.655ff1f3.chunk.js",
+  "static/js/2.655ff1f3.chunk.js.map": "/reactjs-bootstrap-creative-theme/static/js/2.655ff1f3.chunk.js.map",
+  "index.html": "/reactjs-bootstrap-creative-theme/index.html",
+  "precache-manifest.8198de1d34a0685006c22053ea420585.js": "/reactjs-bootstrap-creative-theme/precache-manifest.8198de1d34a0685006c22053ea420585.js",
+  "service-worker.js": "/reactjs-bootstrap-creative-theme/service-worker.js",
+  "static/css/main.a830cac7.chunk.css.map": "/reactjs-bootstrap-creative-theme/static/css/main.a830cac7.chunk.css.map",
+  "static/media/1.jpg": "/reactjs-bootstrap-creative-theme/static/media/1.35fc9782.jpg",
+  "static/media/2.jpg": "/reactjs-bootstrap-creative-theme/static/media/2.291ec430.jpg",
+  "static/media/3.jpg": "/reactjs-bootstrap-creative-theme/static/media/3.99712981.jpg",
+  "static/media/4.jpg": "/reactjs-bootstrap-creative-theme/static/media/4.0cc1d004.jpg",
+  "static/media/5.jpg": "/reactjs-bootstrap-creative-theme/static/media/5.edb6acef.jpg",
+  "static/media/6.jpg": "/reactjs-bootstrap-creative-theme/static/media/6.61db5908.jpg",
+  "static/media/style.scss": "/reactjs-bootstrap-creative-theme/static/media/bg-masthead.bde300d6.jpg"
 }
