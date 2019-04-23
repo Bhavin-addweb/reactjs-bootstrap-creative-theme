@@ -65,7 +65,7 @@ class App extends Component {
         <section className="page-section bg-dark text-white">
           <div className="container text-center">
             <h2 className="mb-4">Free Download at Start Bootstrap!</h2>
-            <Link className="btn btn-light btn-xl" to="https://startbootstrap.com/themes/creative/">Download Now!</Link>
+            <Link className="btn btn-light btn-xl" target="_blank" to="/" onClick={(event) => {event.preventDefault();window.open("https://github.com/Bhavin-addweb/reactjs-bootstrap-creative-theme", "_blank");}}>Download Now!</Link>
           </div>
         </section>
         <Contact myRef={this.contact} />

@@ -37,26 +37,26 @@ class Nav extends Component {
         return (
             <nav className={navClass} id="mainNav">
                 <div className="container">
-                    <Link className="navbar-brand" to="/home" onClick={() => (this.onClickScroll(home))}>Start Bootstrap</Link>
+                    <Link className="navbar-brand" to="/" onClick={() => (this.onClickScroll(home))}>Start Bootstrap</Link>
                     <button className="navbar-toggler navbar-toggler-right" type="button" onClick={this.navBar}>
                         <span className="navbar-toggler-icon"></span>
                     </button>
                     <div className={this.state.navbar} id="navbarResponsive">
                         <ul className="navbar-nav ml-auto my-2 my-lg-0">
                             <li className="nav-item">
-                                <Link className="nav-link" to="/home" onClick={() => (this.onClickScroll(home))}>Home</Link>
+                                <Link className="nav-link" to="/" onClick={() => (this.onClickScroll(home))}>Home</Link>
                             </li>
                             <li className="nav-item">
-                                <Link className="nav-link" to="/about" onClick={() => (this.onClickScroll(about))}>About</Link>
+                                <Link className="nav-link" to="/" onClick={() => (this.onClickScroll(about))}>About</Link>
                             </li>
                             <li className="nav-item">
-                                <Link className="nav-link" to="/services" onClick={() => (this.onClickScroll(services))}>Services</Link>
+                                <Link className="nav-link" to="/" onClick={() => (this.onClickScroll(services))}>Services</Link>
                             </li>
                             <li className="nav-item">
-                                <Link className="nav-link" to="/portfolio" onClick={() => (this.onClickScroll(portfolio))}>Portfolio</Link>
+                                <Link className="nav-link" to="/" onClick={() => (this.onClickScroll(portfolio))}>Portfolio</Link>
                             </li>
                             <li className="nav-item">
-                                <Link className="nav-link" to="/contact" onClick={() => (this.onClickScroll(contact))}>Contact</Link>
+                                <Link className="nav-link" to="/" onClick={() => (this.onClickScroll(contact))}>Contact</Link>
                             </li>
                         </ul>
                     </div>
