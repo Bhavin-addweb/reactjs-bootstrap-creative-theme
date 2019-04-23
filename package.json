@@ -1,63 +1,31 @@
 {
-<<<<<<< HEAD
   "name": "creative",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Bhavin-addweb.github.io/reactjs-bootstrap-creative-theme",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.17",
     "@fortawesome/free-solid-svg-icons": "^5.8.1",
     "@fortawesome/react-fontawesome": "^0.1.4",
     "bootstrap": "^4.3.1",
-    "gh-pages": "^2.0.1",
     "node-sass": "^4.11.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-router-dom": "^5.0.0",
     "react-scripts": "2.1.8"
-=======
-  "name": "hello",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-scripts": "3.0.0"
->>>>>>> 97bfd9326f9a3486f4177814f5f351fa55978dfc
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-<<<<<<< HEAD
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-=======
->>>>>>> 97bfd9326f9a3486f4177814f5f351fa55978dfc
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
   },
-<<<<<<< HEAD
   "browserslist": [
     ">0.2%",
     "not dead",
     "not ie <= 11",
     "not op_mini all"
   ]
-=======
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  }
->>>>>>> 97bfd9326f9a3486f4177814f5f351fa55978dfc
 }
