@@ -1,0 +1,148 @@
+/*-----------------------------------
+   1. Body / Typography 
+-----------------------------------*/
+
+body {
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  font-size: 18px;
+  font-family: "Josefin Sans", sans-serif;
+  letter-spacing: 0px;
+  color: #33342f;
+  font-weight: 300;
+  line-height: 24px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 400;
+  color: #191e10;
+  font-family: "Josefin Sans", sans-serif;
+  margin: 0px 0px 15px 0px;
+  letter-spacing: -0.5px;
+}
+
+h1 {
+  font-size: 36px;
+  line-height: 42px;
+}
+
+h2 {
+  font-size: 28px;
+  line-height: 40px;
+}
+
+h3 {
+  font-size: 24px;
+  line-height: 32px;
+}
+
+h4 {
+  font-size: 20px;
+  line-height: 30px;
+}
+
+h5 {
+  font-size: 16px;
+}
+
+h6 {
+  font-size: 12px;
+}
+
+p {
+  margin: 0 0 24px;
+  line-height: 1.4;
+}
+
+p:last-child {
+  margin: 0px;
+}
+
+ul,
+ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #191e10;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+a:focus,
+a:hover {
+  text-decoration: none;
+  color: #9eae26;
+}
+
+.lead {
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 1.6;
+  font-family: "Josefin Sans", sans-serif;
+  color: #92a02d;
+  margin-bottom: 30px;
+}
+
+.blockquote {
+  padding: 40px;
+  font-size: 21px;
+  background-color: #f8f8f4;
+}
+
+.qoute-icon {
+  font-size: 40px;
+  color: #92a02d;
+  margin-bottom: 20px;
+  float: right;
+  margin-top: -30px;
+  margin-bottom: 30px;
+}
+
+.blockquote-content {
+  font-style: italic;
+  font-family: "Josefin Sans", sans-serif;
+  color: #92a02d;
+  margin-bottom: 0px;
+  line-height: 1;
+  font-weight: 3 00;
+  font-size: 22px;
+}
+
+.blockquote-content p {
+  line-height: 1.4;
+}
+
+.blocquote-author {
+  font-weight: 500;
+  font-size: 12px;
+  text-transform: uppercase;
+  font-style: normal;
+  color: #191e10;
+  letter-spacing: 1px;
+}
+
+strong {
+  color: #333333;
+  font-weight: 400;
+  margin-right: 8px;
+}
+
+hr {
+  border-bottom: 1px solid #f0f0ee;
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
+
+.w-100 {
+  width: 100%;
+}
